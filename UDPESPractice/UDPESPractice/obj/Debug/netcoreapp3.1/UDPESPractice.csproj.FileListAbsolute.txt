@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\bin\Debug\netcoreapp3.1\UDPESPractice.exe
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\bin\Debug\netcoreapp3.1\UDPESPractice.deps.json
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\bin\Debug\netcoreapp3.1\UDPESPractice.runtimeconfig.json
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\bin\Debug\netcoreapp3.1\UDPESPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\bin\Debug\netcoreapp3.1\UDPESPractice.dll
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\bin\Debug\netcoreapp3.1\UDPESPractice.pdb
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.dll
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.pdb
+C:\Users\User\Desktop\Upcasting-Downcasting-params-Enum-Struct\UDPESPractice\UDPESPractice\obj\Debug\netcoreapp3.1\UDPESPractice.genruntimeconfig.cache
